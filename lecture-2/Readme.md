@@ -12,3 +12,9 @@ For bool we can use true and false but in cpp most people use 0 and 1. 0 for fal
 ## Decisions
 
 we have pratice if elseif and else etc. also we have seen switch but our teacher didn't recommend it to use
+
+## iteration
+
+we have check while loop and for loop.
+
+<img src="for-loop.png">

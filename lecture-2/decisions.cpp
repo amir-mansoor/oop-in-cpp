@@ -25,7 +25,29 @@ void if_grade() {
     cout << points << endl;
 }
 
+void switch_grade() {
+    // (not recommend)
+    char grade = 'A';
+    float points;
+    switch(grade){
+        case 'A':
+            points = 4.0;
+            break;
+        case 'B':
+            points = 3.0;
+            break;
+        case 'C':
+            points = 2.0;
+            break;
+        default:
+            points = 0;
+    }
+
+    cout << points << endl;
+}
+
 int main() {
     // if_test();
-    if_grade();
+    // if_grade();
+    switch_grade();
 }
