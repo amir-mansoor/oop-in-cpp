@@ -18,3 +18,5 @@ we have pratice if elseif and else etc. also we have seen switch but our teacher
 we have check while loop and for loop.
 
 <img src="for-loop.png">
+
+<img src="for-loop-1.png">
